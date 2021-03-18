@@ -19,3 +19,9 @@ MongoDB
 - Spacex API Extraction and Transformation: Henry Deane
 - Weather API Extraction and Transformation: Elizabeth Sanchez
 - MongoDB Build/Load: Brienne Cole
+
+
+-----------------------------------------------------------------------
+# NOTES
+-----------------------------------------------------------------------
+- Tried to use upcoming = true as a filter in the Spacex API app but we found that it wasn't accurate.
