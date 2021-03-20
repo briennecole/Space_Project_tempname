@@ -11,8 +11,8 @@
 Combine data from SpaceX and weather api's to forecast weather info on upcoming launch date/location.
 
 ## Data Sources and Extraction
-- SpaceX API https://docs.spacexdata.com/#bc65ba60-decf-4289-bb04-4ca9df01b9c1
-- Weatherbit API https://www.weatherbit.io/api
+- SpaceX API (no api key required) https://docs.spacexdata.com/#bc65ba60-decf-4289-bb04-4ca9df01b9c1
+- Weatherbit API (api key stored in config.py file) https://www.weatherbit.io/api
 
 #### DataFrame 1 (space_df)
 For our eventual app that could be used to view a 16 day weather forecast for upcoming launches, our team first used the Spacex API to pull in data on all launches in JSON. (*Note* Wanting only, future launches for this project, we first attempted to use the field "upcoming=True" to filter to exclude past launches but we found that field to be inaccurate). 
