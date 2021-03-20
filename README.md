@@ -14,7 +14,7 @@ Combine data from SpaceX and weather api's to forecast weather info on upcoming 
 
 For our eventual app that could be used to view a 16 day weather forecast for upcoming launches, our team first used the Spacex API to pull in data on all launches in JSON (*Note* Wanting only, future launches for this project, we first attempted to use the field "upcoming=True" to filter to exclude past launches but we found that field to be inaccurate).
 
-Second, we used the latitude and longitude fields from the extracted Spacex 
+Second, we used the latitude and longitude fields from the extracted SpaceX data to 
 
 
 -----------------------------------------------------------------------
