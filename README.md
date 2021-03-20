@@ -1,6 +1,6 @@
 # spacex_launch_etl_project
 
-![spacex](https://user-images.githubusercontent.com/75045133/111883255-609dcd00-8977-11eb-83c4-89c80233df5d.jpg)
+![spacex2](https://user-images.githubusercontent.com/75045133/111883300-af4b6700-8977-11eb-855d-d0a18e29fa94.jpg)
 
 ## Tried-tested-terrified Team Members:
 - Elizabeth Sanchez
